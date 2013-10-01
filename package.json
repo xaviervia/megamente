@@ -1,0 +1,10 @@
+{
+  "name":"megamente",
+  "description":"JSTP bindings for the bash shell",
+  "version":"0.0.1-alpha",
+  "devDependencies":{
+    "jstp":"latest",
+    "vows":"latest",
+    "execSync":"latest"
+  }
+}
